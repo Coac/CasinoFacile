@@ -22,7 +22,7 @@ var n1;
 var n2;
 var n3;
 var min_ = 1;
-var max_ = 4;
+var max_ = 5;
 var slot1;
 var slot2;
 var slot3;
